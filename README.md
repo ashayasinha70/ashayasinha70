@@ -10,7 +10,7 @@ I'm a **Software Development Engineer** with **3.5+ years** of experience buildi
 |------|-------------------------------|
 | **Languages & Frontend** | JavaScript (ES6+), TypeScript, React.js, HTML5, CSS3 |
 | **Backend & Databases** | Node.js, Express.js, MongoDB (optimization expertise) |
-| **AI & GenAI** | LangChain.js, OpenAI API, RAG Pipelines, Pinecone, Embeddings, Prompt Engineering |
+| **AI & GenAI** | LangChain.js, OpenAI API, RAG Pipelines, pg+pgvector, Embeddings, Prompt Engineering |
 | **Cloud & Infrastructure** | AWS (EC2, S3, SES) |
 | **API & Integrations** | REST APIs, Axios, Postman, JSForce SDK, Salesforce |
 | **Testing & Performance** | Jest, Code Splitting, Lazy Loading, Bundle Optimization |
